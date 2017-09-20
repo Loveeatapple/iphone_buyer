@@ -1,5 +1,7 @@
 # iPhone Buyer
 
+![Tim Smiling](images/tim.jpeg)
+
 This script will run by pinging the latest iPhone to see if it's in stock and
 if it is, it will purchase it for you.
 
